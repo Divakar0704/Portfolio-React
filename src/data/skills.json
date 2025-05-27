@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "/assets/skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "/assets/skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "/assets/skills/javascript.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "/assets/skills/node.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "/assets/skills/react.png"
+  },
+  {
+    "title": "mongoDB",
+    "imageSrc": "/assets/skills/mongodb.png"
+  },
+  {
+    "title": "mySQL",
+    "imageSrc": "/assets/skills/mySQL.png"
+  },
+  {
+    "title": "Postgre SQL",
+    "imageSrc": "/assets/skills/Postgres.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "/assets/skills/Tailwind CSS.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "/assets/skills/c++.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "/assets/skills/docker.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "/assets/skills/figma.png"
+  }
+]

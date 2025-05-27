@@ -1,0 +1,18 @@
+[
+  {
+    "title": "SmartSplit",
+    "imageSrc": "/assets/projects/smartsplit.png",
+    "description": "A full-stack budget management app on the 50-30-20 rule, helping to divide income into Needs, Wants, and Savings.",
+    "skills": ["MongoDB", "Express", "Node.js", "EJS", "Chart.js"],
+    "demo": "https://smart-split-one.vercel.app/",
+    "source": "https://github.com/Divakar0704/Smart-split/"
+  },
+  {
+    "title": "Roadmap",
+    "imageSrc": "/assets/projects/roadmap.png",
+    "description": "An interactive web-based roadmap app to help students track their learning progress in web development and DSA.",
+    "skills": ["HTML", "CSS", "Framer Motion", "JavaScript"],
+    "demo": "https://roadmap-sable.vercel.app/",
+    "source": "https://github.com/Divakar0704/roadmap"
+  }
+]
