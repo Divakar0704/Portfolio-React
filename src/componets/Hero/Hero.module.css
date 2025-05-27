@@ -228,7 +228,7 @@
   top: 246px;
   right: -25vw;
   border-radius: 764px;
-  background: rgba(25, 55, 109, 0.7);
+  background: rgba(25, 54, 109, 0.307);
   filter: blur(100px);
   z-index: 0;
 }
@@ -253,10 +253,15 @@
     height: 14rem;
   }
   .title {
-    font-size: 45px;
-    margin-top: 20px;
+    font-size: 40px;
+    margin-top: 37px;
   }
   .description {
-        font-size: 27px;
+        font-size: 24px;
+        letter-spacing: 1.8px;
+
+  }
+  .contactBtn{
+    font-size: 28px;
   }
 }

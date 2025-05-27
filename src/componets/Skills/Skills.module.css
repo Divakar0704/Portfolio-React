@@ -69,7 +69,12 @@
     align-items: center;
     justify-content: center;
   }
+
+  .skillImageContainer {
+     width: 108px;
+  height: 108px;
+  }
 .skillImageContainer img {
-  width: 70px;
+  width: 64px;
 }
 }

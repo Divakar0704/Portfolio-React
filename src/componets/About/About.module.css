@@ -52,6 +52,10 @@
     background-repeat: no-repeat;
     transition: 0.4s;
  }
+
+ .aboutItem img {
+   margin-right: 10px;
+ }
  
  .aboutItem:hover {
     background-size:100% 100%;
@@ -90,4 +94,10 @@
         padding-left: 0;
         padding-right: 0;
     }
+   .aboutItem h3{
+      font-size: 21px;
+   }
+   .aboutItem p {
+      font-size: 21px;   
+   }
  }
