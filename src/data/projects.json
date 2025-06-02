@@ -14,5 +14,13 @@
     "skills": ["HTML", "CSS", "Framer Motion", "JavaScript"],
     "demo": "https://roadmap-sable.vercel.app/",
     "source": "https://github.com/Divakar0704/roadmap"
+  },
+   {
+    "title": "SyncAI",
+    "imageSrc": "/assets/projects/syncai.png",
+    "description": "An AI-powered chat application, integrated with Gemini API, provides real-time responses for user prompts.",
+    "skills": ["React JS", "Gemini API", "Node.js", "Express"],
+    "demo": "https://sync-ai-rosy.vercel.app/",
+    "source": "https://github.com/Divakar0704/SyncAI"
   }
 ]
