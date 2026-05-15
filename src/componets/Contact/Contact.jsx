@@ -23,7 +23,7 @@ export const Contact = () => {
             </li>
             <li className={styles.link} >
                 <img src={linkedin} alt="linkedin icon" />
-                <a href="https://www.linkedin.com/in/reddy-divakar-56ba20259/">Reddy Divakar</a>
+                <a href="https://www.linkedin.com/in/reddy-divakar07/">Reddy Divakar</a>
             </li>
 
         </ul>
